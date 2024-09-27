@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 2888120219562929921}
   - component: {fileID: 5278527083670416294}
   - component: {fileID: 6914556238652044161}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Asteroid
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -164,10 +164,10 @@ CircleCollider2D:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 64
+    m_Bits: 65
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 55
+    m_Bits: 182
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
